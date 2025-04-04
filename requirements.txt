@@ -1,0 +1,12 @@
+streamlit
+anthropic
+supabase
+pandas
+torch
+tqdm
+transformers
+numpy
+ebooklib
+beautifulsoup4
+requests
+llama-index
